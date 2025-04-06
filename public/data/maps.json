@@ -4,56 +4,7471 @@
     "name": "Cases-Ugumlos",
     "tier": 6,
     "resources": [
-      {"type": "stone", "quantity": 1},
-      {"type": "wood", "quantity": 1},
-      {"type": "blue_chest", "quantity": 1},
-      {"type": "green_chest", "quantity": 1},
-      {"type": "fiber", "quantity": 1},
-      {"type": "hide", "quantity": 1},
-      {"type": "dungeon", "quantity": 1}
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
     ],
-    "image": "/data/maps/Cases-Ugumlos.png"
+    "image": "/data/maps/Cases-Ugumlos T6.png"
   },
   {
     "id": 2,
-    "name": "Xebos-Atinaum",
-    "tier": 6,
+    "name": "Casos-Aiagsum",
+    "tier": 4,
     "resources": [
-      {"type": "fiber", "quantity": 3},
-      {"type": "hide", "quantity": 1},
-      {"type": "green_chest", "quantity": 1}
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
     ],
-    "image": "/data/maps/xebos-atinaum.jpg"
+    "image": "/data/maps/Casos-Aiagsum T4.png"
   },
   {
     "id": 3,
-    "name": "Hiros-Qintaum",
-    "tier": 8,
+    "name": "Cebos-Avemlum",
+    "tier": 4,
     "resources": [
-      {"type": "ore", "quantity": 2},
-      {"type": "blue_chest", "quantity": 1}
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
     ],
-    "image": "/data/maps/hiros-qintaum.jpg"
+    "image": "/data/maps/cebos-avemlum.png"
   },
   {
     "id": 4,
-    "name": "Tofos-Oyinlum",
-    "tier": 5,
+    "name": "Cetitos-Aiayrom",
+    "tier": 6,
     "resources": [
-      {"type": "wood", "quantity": 2},
-      {"type": "stone", "quantity": 1},
-      {"type": "gold_chest", "quantity": 1}
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
     ],
-    "image": "/data/maps/tofos-oyinlum.jpg"
+    "image": "/data/maps/Cetitos-Aiayrom T6.png"
   },
   {
     "id": 5,
-    "name": "Limos-Abalam",
-    "tier": 7,
+    "name": "Cetitos-Avixnum",
+    "tier": 6,
     "resources": [
-      {"type": "hide", "quantity": 3},
-      {"type": "fiber", "quantity": 2}
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
     ],
-    "image": "/data/maps/limos-abalam.jpg"
+    "image": "/data/maps/Cetitos-Avixnum t6.png"
+  },
+  {
+    "id": 6,
+    "name": "Cetitos-Aximam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/cetitos-aximam t6.png"
+  },
+  {
+    "id": 7,
+    "name": "Cieites-Ugumlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cieites-Ugumlos T6.png"
+  },
+  {
+    "id": 8,
+    "name": "Cieitos-Ayosrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/cieitos-ayosrom t6.png"
+  },
+  {
+    "id": 9,
+    "name": "Cieitos-Obaelos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cieitos-Obaelos t4.png"
+  },
+  {
+    "id": 10,
+    "name": "Cieos-Atatlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cieos-Atatlum t6.png"
+  },
+  {
+    "id": 11,
+    "name": "Cilitos-Opodam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cilitos-Opodam.png"
+  },
+  {
+    "id": 12,
+    "name": "Conos-Avaelum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Conos-Avaelum t6.png"
+  },
+  {
+    "id": 13,
+    "name": "Coros-Atinaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Coros-Atinaum t6 v2.png"
+  },
+  {
+    "id": 14,
+    "name": "Couos-Ayayaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Couos-Ayayaum t6.png"
+  },
+  {
+    "id": 15,
+    "name": "Curites-Exakrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Curites-Exakrom t4.png"
+  },
+  {
+    "id": 16,
+    "name": "Cuyites-Iooinum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/cuyites-iooinum.png"
+  },
+  {
+    "id": 17,
+    "name": "Cynitos-Aiagsum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cynitos-Aiagsum T4.png"
+  },
+  {
+    "id": 18,
+    "name": "Cynitos-Atatlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cynitos-Atatlum T6.png"
+  },
+  {
+    "id": 19,
+    "name": "Cynos-Avixnum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cynos-Avixnum t6.png"
+  },
+  {
+    "id": 20,
+    "name": "Fasitos-Oleraum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fasitos-Oleraum T6.png"
+  },
+  {
+    "id": 21,
+    "name": "Fasos-Ayiotum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fasos-Ayiotum T6.png"
+  },
+  {
+    "id": 22,
+    "name": "Feritos-Enomaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Feritos-Enomaum t4.png"
+  },
+  {
+    "id": 23,
+    "name": "Fetos-Aiaylos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "dungeon",
+        "quantity": 4
+      }
+    ],
+    "image": "/data/maps/Fetos-Aiaylos T6.png"
+  },
+  {
+    "id": 24,
+    "name": "Fiees-Ohohtum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Fiees-Ohohtum t8.png"
+  },
+  {
+    "id": 25,
+    "name": "Fieos-Aiuttum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fieos-Aiuttum t6.png"
+  },
+  {
+    "id": 26,
+    "name": "Filites-Izohun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Filites-Izohun t8.png"
+  },
+  {
+    "id": 27,
+    "name": "Firos-Enomaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/firos-enomaum t4.png"
+  },
+  {
+    "id": 28,
+    "name": "Firos-Ezatam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/firos-ezatam.png"
+  },
+  {
+    "id": 29,
+    "name": "Fonos-Aiugsum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fonos-Aiugsum T4.png"
+  },
+  {
+    "id": 30,
+    "name": "Fonos-Oleraum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fonos-Oleraum t6.png"
+  },
+  {
+    "id": 31,
+    "name": "Foritos-Aiaylos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "dungeon",
+        "quantity": 4
+      }
+    ],
+    "image": "/data/maps/Foritos-Aiaylos t6.png"
+  },
+  {
+    "id": 32,
+    "name": "Foues-Aeaosum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Foues-Aeaosum t4.png"
+  },
+  {
+    "id": 33,
+    "name": "Fouitos-Aiattum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/fouitos-aiattum t6.png"
+  },
+  {
+    "id": 34,
+    "name": "Furitos-Aiavam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Furitos-Aiavam t6.png"
+  },
+  {
+    "id": 35,
+    "name": "Fuyes-Izohun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fuyes-Izohun T8.png"
+  },
+  {
+    "id": 36,
+    "name": "Fynitos-Abalam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/fynitos-abalam t4.png"
+  },
+  {
+    "id": 37,
+    "name": "Fynitos-Ezatam",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fynitos-Ezatam t8.png"
+  },
+  {
+    "id": 38,
+    "name": "Hasitos-Avaolum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hasitos-Avaolum T6.png"
+  },
+  {
+    "id": 39,
+    "name": "Hasos-Iuimaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hasos-Iuimaum t6.png"
+  },
+  {
+    "id": 40,
+    "name": "Hasos-Osuorom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hasos-Osuorom t6.png"
+  },
+  {
+    "id": 41,
+    "name": "Hebites-Exemrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hebites-Exemrom T4.png"
+  },
+  {
+    "id": 42,
+    "name": "Hebitos-Atontum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hebitos-Atontum t6.png"
+  },
+  {
+    "id": 43,
+    "name": "Heritos-Inayaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Heritos-Inayaum T6.png"
+  },
+  {
+    "id": 44,
+    "name": "Heros-Atoyam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Heros-Atoyam t6.png"
+  },
+  {
+    "id": 45,
+    "name": "Hilites-Ugumtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hilites-Ugumtum t6.png"
+  },
+  {
+    "id": 46,
+    "name": "Honos-Umayaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Honos-Umayaum t6.png"
+  },
+  {
+    "id": 47,
+    "name": "Horos-Ohenlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Horos-Ohenlum t6.png"
+  },
+  {
+    "id": 48,
+    "name": "Hurites-Ouaylos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hurites-Ouaylos t4.png"
+  },
+  {
+    "id": 49,
+    "name": "Huritos-Iuimaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Huritos-Iuimaum T6.png"
+  },
+  {
+    "id": 50,
+    "name": "Huritos-Oiaelos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 9
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Huritos-Oiaelos t6.png"
+  },
+  {
+    "id": 51,
+    "name": "Huros-Atontum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Huros-Atontum t6.png"
+  },
+  {
+    "id": 52,
+    "name": "Huyitos-Agoitum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/huyitos-agoitum t6.png"
+  },
+  {
+    "id": 53,
+    "name": "Huyos-Eyoztum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Huyos-eyoztum t6.png"
+  },
+  {
+    "id": 54,
+    "name": "Hynes-Exemrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hynes-Exemrom t4.png"
+  },
+  {
+    "id": 55,
+    "name": "Hynitos-Atoyam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Hynitos-Atoyam T6.png"
+  },
+  {
+    "id": 56,
+    "name": "Hynitos-Ayousum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hynitos-Ayousum T6.png"
+  },
+  {
+    "id": 57,
+    "name": "Hynitos-Ulamsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hynitos-Ulamsum t6.png"
+  },
+  {
+    "id": 58,
+    "name": "Hynos-Oiaelos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 9
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hynos-Oiaelos t6.png"
+  },
+  {
+    "id": 59,
+    "name": "Oetos-Ofailos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Oetos-Ofailos t6.png"
+  },
+  {
+    "id": 60,
+    "name": "Oetos-Oyexlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/OETOS-OYEXLOS - T6.png"
+  },
+  {
+    "id": 61,
+    "name": "Oieitos-Ixakaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/oieitos-ixakaum t4.png"
+  },
+  {
+    "id": 62,
+    "name": "Oures-Araosum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Oures-Araosum t6.png"
+  },
+  {
+    "id": 63,
+    "name": "Ouritos-Ataltum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Ouritos-Ataltum t6 v2.png"
+  },
+  {
+    "id": 64,
+    "name": "Ouritos-Ofailos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Ouritos-Ofailos T6.png"
+  },
+  {
+    "id": 65,
+    "name": "Oynites-Oloblum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Oynites-Oloblum t6.png"
+  },
+  {
+    "id": 66,
+    "name": "Oynos-Eramtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Oynos-Eramtum t6.png"
+  },
+  {
+    "id": 67,
+    "name": "Peritos-Avosam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Peritos-Avosam t4.png"
+  },
+  {
+    "id": 68,
+    "name": "Peritos-Oconun",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 3
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Peritos-Oconun T4.png"
+  },
+  {
+    "id": 69,
+    "name": "Peros-Aiataum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Peros-Aiataum-T6.png"
+  },
+  {
+    "id": 70,
+    "name": "Petitos-Amayam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Petitos-Amayam t4.png"
+  },
+  {
+    "id": 71,
+    "name": "Pieos-Eterrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pieos-Eterrom T4.png"
+  },
+  {
+    "id": 72,
+    "name": "Piritos-Opabrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Piritos-Opabrom t6.png"
+  },
+  {
+    "id": 73,
+    "name": "Poros-Aiayrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Poros-Aiayrom t4.png"
+  },
+  {
+    "id": 74,
+    "name": "Poros-Oconun",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Poros-oconun.png"
+  },
+  {
+    "id": 75,
+    "name": "Puyitos-Aiataum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Puyitos-Aiataum T6.png"
+  },
+  {
+    "id": 76,
+    "name": "Qiient-Tersom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Tersom t6.png"
+  },
+  {
+    "id": 77,
+    "name": "Quaent-Al-Viesom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/quaent-al-Viesom t6.png"
+  },
+  {
+    "id": 78,
+    "name": "Quaent-Al-Vynsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/quaent-al-vynsum t6.png"
+  },
+  {
+    "id": 79,
+    "name": "Quaent-Al-Nusis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/quaent-al-nusis t6.png"
+  },
+  {
+    "id": 80,
+    "name": "Quatun-Et-Nusas",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Quatun-et-Nusas t6.png"
+  },
+  {
+    "id": 81,
+    "name": "Quatun-Nusas",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Quatun-Nusas T6.png"
+  },
+  {
+    "id": 82,
+    "name": "Sases-Aoarsum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sases-Aorsum t4.png"
+  },
+  {
+    "id": 83,
+    "name": "Sasitos-Umogaum",
+    "tier": "4",
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/sasitos-umogaum.png"
+  },
+  {
+    "id": 84,
+    "name": "Secent-AI-Odetis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-AI-Odetis.png"
+  },
+  {
+    "id": 85,
+    "name": "Secent-Al-Duosom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-Al-Duosom t6.png"
+  },
+  {
+    "id": 86,
+    "name": "Secent-Et-Vyntum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Secent-Et-Vyntum T6.png"
+  },
+  {
+    "id": 87,
+    "name": "Sectun-in-Vyntis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sectun-in-Vyntis t6.png"
+  },
+  {
+    "id": 88,
+    "name": "Sectun-Tersas",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/sectun-tersas t6.png"
+  },
+  {
+    "id": 89,
+    "name": "Setitos-Obobrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Setitos-Obobrom T6.png"
+  },
+  {
+    "id": 90,
+    "name": "Settun-Al-Odetum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Settun-Al-Odetum t6.png"
+  },
+  {
+    "id": 91,
+    "name": "Sieos-Ofugtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/sieos-ofugtum t6.png"
+  },
+  {
+    "id": 92,
+    "name": "Siritos-Avoirom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Siritos-Avoirom t4.png"
+  },
+  {
+    "id": 93,
+    "name": "Soritos-Aiaitum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/soritos-aiaitum.png"
+  },
+  {
+    "id": 94,
+    "name": "Soritos-Apenlum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Soritos-Apenlum t4.png"
+  },
+  {
+    "id": 95,
+    "name": "Soritos-Avamsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Soritos-Avamsum T6.png"
+  },
+  {
+    "id": 96,
+    "name": "Souitos-Oiozlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Souitos-Oiozlum t6.png"
+  },
+  {
+    "id": 97,
+    "name": "Souos-Ososlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Souos-Ososlos t6.png"
+  },
+  {
+    "id": 98,
+    "name": "Synites-Aoarsum",
+    "tier": "4",
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Synites-aoarsum.png"
+  },
+  {
+    "id": 99,
+    "name": "Synitos-Availos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/synitos-availos.png"
+  },
+  {
+    "id": 100,
+    "name": "Synitos-Ofurlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Synitos-Ofurlos T6.png"
+  },
+  {
+    "id": 101,
+    "name": "Synos-Ayailos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Synos-Ayailos t4.png"
+  },
+  {
+    "id": 102,
+    "name": "Synos-Oyarlos",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Synos-Oyarlos T8.png"
+  },
+  {
+    "id": 103,
+    "name": "Tasitos-Obayam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 3
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tasitos-Obayam T6.png"
+  },
+  {
+    "id": 104,
+    "name": "Teros-Auiusum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/teros-auiusum.png"
+  },
+  {
+    "id": 105,
+    "name": "Tetos-Igaelum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/tetos-igaelum.png"
+  },
+  {
+    "id": 106,
+    "name": "Tetos-Ulaurom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tetos-Ulaurom t6.png"
+  },
+  {
+    "id": 107,
+    "name": "Tilitos-Ataglos",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 9
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tilitos-Ataglos t8.png"
+  },
+  {
+    "id": 108,
+    "name": "Tonitos-Igurlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tonitos-Igurlum t6.png"
+  },
+  {
+    "id": 109,
+    "name": "Tynos-Eyexrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tynos-Eyexrom t6 v2.png"
+  },
+  {
+    "id": 110,
+    "name": "Tynos-Uxavrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Tynos-Uxavrom T6.png"
+  },
+  {
+    "id": 111,
+    "name": "Xases-Oxoulum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xases-Oxoulum T6.png"
+  },
+  {
+    "id": 112,
+    "name": "Xebos-Emimsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xebos-Emimsum T6.png"
+  },
+  {
+    "id": 113,
+    "name": "Xerites-Oxoulum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/xerites-oxoulum t6.png"
+  },
+  {
+    "id": 114,
+    "name": "Xetitos-Emimsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Xetitos-Emimsum T6.png"
+  },
+  {
+    "id": 115,
+    "name": "Xetos-Obursum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/xetos-obursum t6.png"
+  },
+  {
+    "id": 116,
+    "name": "Xiles-Aiavlum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xiles-Aiavlum T4.png"
+  },
+  {
+    "id": 117,
+    "name": "Xilitos-Aoemaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xilitos-Aoemaum t6.png"
+  },
+  {
+    "id": 118,
+    "name": "Xilos-Osayam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Xilos-Osayam t6.png"
+  },
+  {
+    "id": 119,
+    "name": "Xiros-Aiairom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/xiros-aiairom t6.png"
+  },
+  {
+    "id": 120,
+    "name": "Xoritos-Exostum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xoritos-Exostum T6.png"
+  },
+  {
+    "id": 121,
+    "name": "Xoritos-Osayam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Xoritos-Osayam T6.png"
+  },
+  {
+    "id": 122,
+    "name": "Xuyitos-Aioblos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Xuyitos-Aioblos T4.png"
+  },
+  {
+    "id": 123,
+    "name": "Xynos-Oyogam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Xynos-Oyogam T6.png"
+  },
+  {
+    "id": 124,
+    "name": "Ceres-Iooinum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Ceres-Iooinum t4.png"
+  },
+  {
+    "id": 125,
+    "name": "Hebes-Ouaylos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hebes-Ouaylos t4.png"
+  },
+  {
+    "id": 126,
+    "name": "Coros-Aiayrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Coros-Aiayrom T6.png"
+  },
+  {
+    "id": 127,
+    "name": "Hasitos-Umayaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hasitos-Umayaum T6.png"
+  },
+  {
+    "id": 128,
+    "name": "Hebos-Ulamsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hebos-Ulamsum T6.png"
+  },
+  {
+    "id": 129,
+    "name": "Hilitos-Aiigaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hilitos-Aiigaum T4.png"
+  },
+  {
+    "id": 130,
+    "name": "Oiros-Alaiam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Oiros-Alaiam T6.png"
+  },
+  {
+    "id": 131,
+    "name": "Pilitos-Eterrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pilitos-Eterrom T4.png"
+  },
+  {
+    "id": 132,
+    "name": "Secent-Et-Odesis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-Et-Odesis T6.png"
+  },
+  {
+    "id": 133,
+    "name": "Secent-Qi-Qinsom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-Qi-Qinsom T6.png"
+  },
+  {
+    "id": 134,
+    "name": "Toritos-Iriglos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Toritos-Iriglos T6.png"
+  },
+  {
+    "id": 135,
+    "name": "Secent-Odesom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-Odesom t6.png"
+  },
+  {
+    "id": 136,
+    "name": "Souos-Availos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Souos-Availos t6.png"
+  },
+  {
+    "id": 137,
+    "name": "Curitos-Ayayaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Curitos-Ayayaum t6.png"
+  },
+  {
+    "id": 138,
+    "name": "Fasitos-Atezsum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Fasitos-Atezsum t4.png"
+  },
+  {
+    "id": 139,
+    "name": "Febos-Acalun",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Febos-Acalun t4.png"
+  },
+  {
+    "id": 140,
+    "name": "Filitos-Uzazlum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Filitos-Uzazlum t8.png"
+  },
+  {
+    "id": 141,
+    "name": "Fynitos-Aiugsum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Fynitos-Aiugsum t4.png"
+  },
+  {
+    "id": 142,
+    "name": "Hiros-Iuaerom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hiros-Iuaerom t6.png"
+  },
+  {
+    "id": 143,
+    "name": "Hurites-Ieatun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hurites-Ieatun t8.png"
+  },
+  {
+    "id": 144,
+    "name": "Piritos-Ofavam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 4
+      }
+    ],
+    "image": "/data/maps/Piritos-Ofavam t6.png"
+  },
+  {
+    "id": 145,
+    "name": "Pures-Ouozlum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pures-Ouozlum.png"
+  },
+  {
+    "id": 146,
+    "name": "Qiient-Et-Nusas",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Et-Nusas t6.png"
+  },
+  {
+    "id": 147,
+    "name": "Secent-Sa-Odesis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-Sa-Odesis t6.png"
+  },
+  {
+    "id": 148,
+    "name": "Xuros-Eyoztum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xuros-Eyoztum t4.png"
+  },
+  {
+    "id": 149,
+    "name": "Petos-Aietam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Petos-Aietam t6.png"
+  },
+  {
+    "id": 150,
+    "name": "Qiient-Si-Odesum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Si-Odesum t6.png"
+  },
+  {
+    "id": 151,
+    "name": "Setent-Nusum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Setent-Nusum t6.png"
+  },
+  {
+    "id": 152,
+    "name": "Siros-Obobrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Siros-Obobrom t6.png"
+  },
+  {
+    "id": 153,
+    "name": "Xasos-Oneulum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xasos-Oneulum t6.png"
+  },
+  {
+    "id": 154,
+    "name": "Files-Azazsum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Files-Azazsum t8.png"
+  },
+  {
+    "id": 155,
+    "name": "Foros-Egoisum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Foros-Egoisum t6.png"
+  },
+  {
+    "id": 156,
+    "name": "Ponitos-Aiayrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Ponitos-Aiayrom t4.png"
+  },
+  {
+    "id": 157,
+    "name": "Synitos-Ososlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Synitos-Ososlos t6.png"
+  },
+  {
+    "id": 158,
+    "name": "Huyitos-Ohenlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Huyitos-Ohenlum t6.png"
+  },
+  {
+    "id": 159,
+    "name": "Oires-Oloblum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Oires-Oloblum t6.png"
+  },
+  {
+    "id": 160,
+    "name": "Pynitos-Aietam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pynitos-Aietam t6.png"
+  },
+  {
+    "id": 161,
+    "name": "Feritos-Osinsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Feritos-Osinsum t6.png"
+  },
+  {
+    "id": 162,
+    "name": "Casitos-Alieam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Casitos-Alieam t4.png"
+  },
+  {
+    "id": 163,
+    "name": "Pieos-Ofairom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pieos-Ofairom t6.png"
+  },
+  {
+    "id": 164,
+    "name": "Qiient-Al-Qinsis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Al-Qinsis t6.png"
+  },
+  {
+    "id": 165,
+    "name": "Fasitos-Oyuctum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fasitos-Oyuctum t6.png"
+  },
+  {
+    "id": 166,
+    "name": "Feros-Oyuctum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Feros-Oyuctum t6.png"
+  },
+  {
+    "id": 167,
+    "name": "Fones-Opavun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fones-Opavun t8.png"
+  },
+  {
+    "id": 168,
+    "name": "Fuyitos-Acalun",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Fuyitos-Acalun t4.png"
+  },
+  {
+    "id": 169,
+    "name": "Fynes-Unavtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Fynes-Unavtum t6.png"
+  },
+  {
+    "id": 170,
+    "name": "Oynitos-Uromlum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Oynitos-Uromlum t4.png"
+  },
+  {
+    "id": 171,
+    "name": "Sases-Avuotum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sases-Avuotum t6.png"
+  },
+  {
+    "id": 172,
+    "name": "Qiient-Oc-Odetum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Oc-Odetum t6.png"
+  },
+  {
+    "id": 173,
+    "name": "Xasos-Aeoilos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 3
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xasos-Aeoilos t4.png"
+  },
+  {
+    "id": 174,
+    "name": "Xebos-Exostum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xebos-Exostum t6.png"
+  },
+  {
+    "id": 175,
+    "name": "Suyitos-Ofugtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Suyitos-Ofugtum t6.png"
+  },
+  {
+    "id": 176,
+    "name": "Xebitos-Oyogam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xebitos-Oyogam t6.png"
+  },
+  {
+    "id": 177,
+    "name": "Tynos-Atatlos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 3
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tynos-Atatlos t4.png"
+  },
+  {
+    "id": 178,
+    "name": "Suyos-Onaytum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Suyos-Onaytum t6.png"
+  },
+  {
+    "id": 179,
+    "name": "Setent-Et-Qintis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Setent-Et-Qintis t6.png"
+  },
+  {
+    "id": 180,
+    "name": "Siritos-Oyohun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Siritos-Oyohun t8.png"
+  },
+  {
+    "id": 181,
+    "name": "Suyites-Uzurtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Suyites-Uzurtum t6.png"
+  },
+  {
+    "id": 182,
+    "name": "Oonitos-Umiutum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Oonitos-Umiutum t4.png"
+  },
+  {
+    "id": 183,
+    "name": "Ooros-Ataltum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Ooros-Ataltum t6.png"
+  },
+  {
+    "id": 184,
+    "name": "Poues-Unatam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Poues-Unatam T6.png"
+  },
+  {
+    "id": 185,
+    "name": "Qiient-Al-Nusom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Al-Nusom T6.png"
+  },
+  {
+    "id": 186,
+    "name": "Qiitun-Duosum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiitun-Duosum t6.png"
+  },
+  {
+    "id": 187,
+    "name": "Sasos-Oiozlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sasos-Oiozlum T6.png"
+  },
+  {
+    "id": 188,
+    "name": "Xoritos-Aiairom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xoritos-Aiairom T6.png"
+  },
+  {
+    "id": 189,
+    "name": "Cilos-Avioaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cilos-Avioaum t4.png"
+  },
+  {
+    "id": 190,
+    "name": "Hasos-Ayousum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hasos-Ayousum T6.png"
+  },
+  {
+    "id": 191,
+    "name": "Pebos-Avosrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 4
+      }
+    ],
+    "image": "/data/maps/Pebos-Avosrom t6.png"
+  },
+  {
+    "id": 192,
+    "name": "Tiros-Ouultum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Tiros-Ouultum T6.png"
+  },
+  {
+    "id": 193,
+    "name": "Ferites-Ohohtum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Ferites-Ohohtum t8.png"
+  },
+  {
+    "id": 194,
+    "name": "Files-Izizaum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Files-Izizaum t8.png"
+  },
+  {
+    "id": 195,
+    "name": "Oebitos-Eraerom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Oebitos-Eraerom t4.png"
+  },
+  {
+    "id": 196,
+    "name": "Cilos-Otatrom",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cilos-Otatrom t8.png"
+  },
+  {
+    "id": 197,
+    "name": "Foros-Uzazlum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Foros-Uzazlum t8.png"
+  },
+  {
+    "id": 198,
+    "name": "Fouos-Agosaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fouos-Agosaum t6.png"
+  },
+  {
+    "id": 199,
+    "name": "Hiros-Exozlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hiros-Exozlos t6.png"
+  },
+  {
+    "id": 200,
+    "name": "Hynes-Ieatun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hynes-Ieatun t8.png"
+  },
+  {
+    "id": 201,
+    "name": "Oasitos-Aoeuam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Oasitos-Aoeuam t4.png"
+  },
+  {
+    "id": 202,
+    "name": "Oiritos-Eramtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Oiritos-Eramtum t6.png"
+  },
+  {
+    "id": 203,
+    "name": "Petitos-Avosrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 4
+      }
+    ],
+    "image": "/data/maps/Petitos-Avosrom t6.png"
+  },
+  {
+    "id": 204,
+    "name": "Tasitos-Ulaurom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tasitos-Ulaurom t6.png"
+  },
+  {
+    "id": 205,
+    "name": "Tieos-Ayoslum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tieos-Ayoslum t4.png"
+  },
+  {
+    "id": 206,
+    "name": "Cilos-Ofailos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cilos-Ofailos T4.png"
+  },
+  {
+    "id": 207,
+    "name": "Cynos-Oxaeaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cynos-Oxaeaum T4.png"
+  },
+  {
+    "id": 208,
+    "name": "Honos-Oyezam",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Honos-Oyezam T8.png"
+  },
+  {
+    "id": 209,
+    "name": "Hynites-Ogozlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hynites-Ogozlum T6.png"
+  },
+  {
+    "id": 210,
+    "name": "Ouyos-Aoeuam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Ouyos-Aoeuam t4.png"
+  },
+  {
+    "id": 211,
+    "name": "Qiitun-Et-Vietis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiitun-Et-Vietis T6.png"
+  },
+  {
+    "id": 212,
+    "name": "Sebos-Ugersum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Sebos-Ugersum T6.png"
+  },
+  {
+    "id": 213,
+    "name": "Secent-Nutum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-Nutum T6.png"
+  },
+  {
+    "id": 214,
+    "name": "Seritos-Egeylos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Seritos-Egeylos T6.png"
+  },
+  {
+    "id": 215,
+    "name": "Settun-Odetum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Settun-Odetum T6.png"
+  },
+  {
+    "id": 216,
+    "name": "Siros-Ofurlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Siros-Ofurlos T6.png"
+  },
+  {
+    "id": 217,
+    "name": "Soros-Axaesum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Soros-Axaesum T4.png"
+  },
+  {
+    "id": 218,
+    "name": "Tieitos-Ouultum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Tieitos-Ouultum T6.png"
+  },
+  {
+    "id": 219,
+    "name": "Touos-Uoemtum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Touos-Uoemtum T4.png"
+  },
+  {
+    "id": 220,
+    "name": "Firitos-Alodrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 3
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Firitos-Alodrom t4.png"
+  },
+  {
+    "id": 221,
+    "name": "Hasos-Agoitum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hasos-Agoitum t6.png"
+  },
+  {
+    "id": 222,
+    "name": "Oynos-Oyozam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 3
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Oynos-Oyozam t6.png"
+  },
+  {
+    "id": 223,
+    "name": "Pynites-Ouozlum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pynites-Ouozlum t4.png"
+  },
+  {
+    "id": 224,
+    "name": "Silitos-Abizaum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Silitos-Abizaum t8.png"
+  },
+  {
+    "id": 225,
+    "name": "Touos-Ataglos",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 9
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Touos-Ataglos t8.png"
+  },
+  {
+    "id": 226,
+    "name": "Casitos-Atinaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Casitos-Atinaum T6.png"
+  },
+  {
+    "id": 227,
+    "name": "Fouos-Amaurom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fouos-Amaurom T6.png"
+  },
+  {
+    "id": 228,
+    "name": "Fuyitos-Ayiotum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fuyitos-Ayiotum T6.png"
+  },
+  {
+    "id": 229,
+    "name": "Hilitos-Osuorom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Hilitos-Osuorom T6.png"
+  },
+  {
+    "id": 230,
+    "name": "Secent-Vyntum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Secent-Vyntum T6.png"
+  },
+  {
+    "id": 231,
+    "name": "Seritos-Onaytum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Seritos-Onaytum T6 V2.png"
+  },
+  {
+    "id": 232,
+    "name": "Tasos-Iriglos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tasos-Iriglos T6.png"
+  },
+  {
+    "id": 233,
+    "name": "Casos-Ayosrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Casos-Ayosrom T6.png"
+  },
+  {
+    "id": 234,
+    "name": "Hiles-Izizaum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hiles-Izizaum T8.png"
+  },
+  {
+    "id": 235,
+    "name": "Huyes-Ogozlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Huyes-Ogozlum T6.png"
+  },
+  {
+    "id": 236,
+    "name": "Qiient-Qi-Odesas",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Qi-Odesas T6.png"
+  },
+  {
+    "id": 237,
+    "name": "Sebos-Avoirom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sebos-Avoirom T4.png"
+  },
+  {
+    "id": 238,
+    "name": "Sebos-Oyohun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sebos-Oyohun t8.png"
+  },
+  {
+    "id": 239,
+    "name": "Setent-Vietis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Setent-Vietis T6.png"
+  },
+  {
+    "id": 240,
+    "name": "Casos-Uruxtum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Casos-Uruxtum t4.png"
+  },
+  {
+    "id": 241,
+    "name": "Cieitos-Avioaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cieitos-Avioaum t4.png"
+  },
+  {
+    "id": 242,
+    "name": "Fasites-Azazsum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fasites-Azazsum t8.png"
+  },
+  {
+    "id": 243,
+    "name": "Fieites-Unavtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 3
+      }
+    ],
+    "image": "/data/maps/Fieites-Unavtum t6.png"
+  },
+  {
+    "id": 244,
+    "name": "Filos-Abalam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Filos-Abalam T4.png"
+  },
+  {
+    "id": 245,
+    "name": "Fonitos-Amaurom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fonitos-Amaurom t6.png"
+  },
+  {
+    "id": 246,
+    "name": "Oasos-Eraerom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Oasos-Eraerom t4.png"
+  },
+  {
+    "id": 247,
+    "name": "Oeritos-Ecunsum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 3
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Oeritos-Ecunsum T4.png"
+  },
+  {
+    "id": 248,
+    "name": "Pirites-Unatam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pirites-Unatam t6.png"
+  },
+  {
+    "id": 249,
+    "name": "Pynos-Opabrom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pynos-Opabrom t6.png"
+  },
+  {
+    "id": 250,
+    "name": "Qiient-Al-Vynsis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Al-Vynsis t6.png"
+  },
+  {
+    "id": 251,
+    "name": "Quaent-In-Odesum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Quaent-In-Odesum t6.png"
+  },
+  {
+    "id": 252,
+    "name": "Sasos-Egeylos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Sasos-Egeylos t6.png"
+  },
+  {
+    "id": 253,
+    "name": "Tetitos-Ayoslum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tetitos-Ayoslum t4.png"
+  },
+  {
+    "id": 254,
+    "name": "Casos-Aximam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Casos-Aximam t6.png"
+  },
+  {
+    "id": 255,
+    "name": "Fynitos-Egoisum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Fynitos-Egoisum t6.png"
+  },
+  {
+    "id": 256,
+    "name": "Conitos-Oxaeaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Conitos-Oxaeaum T4.png"
+  },
+  {
+    "id": 257,
+    "name": "Curos-Avulsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Curos-Avulsum t6.png"
+  },
+  {
+    "id": 258,
+    "name": "Oeritos-Oyexlos",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Oeritos-Oyexlos T6.png"
+  },
+  {
+    "id": 259,
+    "name": "Ooros-Ecunsum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 3
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Ooros-Ecunsum T4.png"
+  },
+  {
+    "id": 260,
+    "name": "Puros-Amayam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 4
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Puros-Amayam T4.png"
+  },
+  {
+    "id": 261,
+    "name": "Cieitos-Otatrom",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cieitos-Otatrom T8.png"
+  },
+  {
+    "id": 262,
+    "name": "Conitos-Ofailos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Conitos-Ofailos T4.png"
+  },
+  {
+    "id": 263,
+    "name": "Couos-Opodam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Couos-Opodam T6.png"
+  },
+  {
+    "id": 264,
+    "name": "Firos-Aiavam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Firos-Aiavam T6.png"
+  },
+  {
+    "id": 265,
+    "name": "Hetitos-Iuaerom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hetitos-Iuaerom T6.png"
+  },
+  {
+    "id": 266,
+    "name": "Quatun-Odetum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Quatun-Odetum T6.png"
+  },
+  {
+    "id": 267,
+    "name": "Settun-AL-Nusis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Settun-AL-Nusis T6.png"
+  },
+  {
+    "id": 268,
+    "name": "Xouitos-Aeoilos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 3
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xouitos-Aeoilos T4.png"
+  },
+  {
+    "id": 269,
+    "name": "Quaent-Tersis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Quaent-Tersis T6.png"
+  },
+  {
+    "id": 270,
+    "name": "Setent-Et-Nusum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Setent-Et-Nusum t6.png"
+  },
+  {
+    "id": 271,
+    "name": "Ceros-Aeaylum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Ceros-Aeaylum t4.png"
+  },
+  {
+    "id": 272,
+    "name": "Sectun-In-Odesis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sectun-In-Odesis t6.png"
+  },
+  {
+    "id": 273,
+    "name": "Sectun-Qinsom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sectun-Qinsom t6.png"
+  },
+  {
+    "id": 274,
+    "name": "Setent-Qintis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Setent-Qintis t6.png"
+  },
+  {
+    "id": 275,
+    "name": "Settun-In-Odetum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Settun-In-Odetum t6.png"
+  },
+  {
+    "id": 276,
+    "name": "Silos-Apenlum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Silos-Apenlum t4.png"
+  },
+  {
+    "id": 277,
+    "name": "Tuyitos-Aboysum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tuyitos-Aboysum t8.png"
+  },
+  {
+    "id": 278,
+    "name": "Tiros-Odoxlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tiros-Odoxlum t6.png"
+  },
+  {
+    "id": 279,
+    "name": "Fynites-Aeaosum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Fynites-Aeaosum t4.png"
+  },
+  {
+    "id": 280,
+    "name": "Suyitos-Oyarlos",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Suyitos-Oyarlos t8.png"
+  },
+  {
+    "id": 281,
+    "name": "Quaent-Qintis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Quaent-Qintis t6.png"
+  },
+  {
+    "id": 282,
+    "name": "Qiient-Et-Qinsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Qiient-Et-Qinsum t6.png"
+  },
+  {
+    "id": 283,
+    "name": "Qiient-In-Viesis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Qiient-In-Viesis t6.png"
+  },
+  {
+    "id": 284,
+    "name": "Qiient-Qi-Nusom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Qi-Nusom t6.png"
+  },
+  {
+    "id": 285,
+    "name": "Qiient-Si-Tertum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Si-Tertum t6.png"
+  },
+  {
+    "id": 286,
+    "name": "Qiitun-Vietis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiitun-Vietis t6.png"
+  },
+  {
+    "id": 287,
+    "name": "Quaent-In-Nusis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Quaent-In-Nusis t6.png"
+  },
+  {
+    "id": 288,
+    "name": "Tebitos-Odoxlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tebitos-Odoxlum t6.png"
+  },
+  {
+    "id": 289,
+    "name": "Xynitos-Obursum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Xynitos-Obursum t6.png"
+  },
+  {
+    "id": 290,
+    "name": "Conitos-Uruxtum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Conitos-Uruxtum t4.png"
+  },
+  {
+    "id": 291,
+    "name": "Coues-Exakrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Coues-Exakrom t4.png"
+  },
+  {
+    "id": 292,
+    "name": "Hasos-Inayaum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hasos-Inayaum t6.png"
+  },
+  {
+    "id": 293,
+    "name": "Oieos-Umiutum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Oieos-Umiutum t4.png"
+  },
+  {
+    "id": 294,
+    "name": "Secent-al-tersum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Secent-al-tersum t6.png"
+  },
+  {
+    "id": 295,
+    "name": "Setent-Al-Vietis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Setent-Al-Vietis t6.png"
+  },
+  {
+    "id": 296,
+    "name": "Setent-Al-Vietis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Setent-Al-Vietis t6.png"
+  },
+  {
+    "id": 297,
+    "name": "Soues-Uzurtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "fiber",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Soues-Uzurtum t6.png"
+  },
+  {
+    "id": 298,
+    "name": "Tuyitos-Auiusum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Tuyitos-Auiusum t4.png"
+  },
+  {
+    "id": 299,
+    "name": "Cebitos-Aeaylum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Cebitos-Aeaylum_t4.png"
+  },
+  {
+    "id": 300,
+    "name": "Cetos-Obaelos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cetos-Obaelos_T4.png"
+  },
+  {
+    "id": 301,
+    "name": "Cieitos-Avioaum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Cieitos-Avioaum_T4.png"
+  },
+  {
+    "id": 302,
+    "name": "Conitos-Uruxtum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Conitos-uruxtum_T4.png"
+  },
+  {
+    "id": 303,
+    "name": "Conitos-Uruxtum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Conitos-uruxtum_T4.png"
+  },
+  {
+    "id": 304,
+    "name": "Coros-Alieam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Coros-Alieam_T4.png"
+  },
+  {
+    "id": 305,
+    "name": "Coues-Exakrom",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Coues-Exakrom_T4.png"
+  },
+  {
+    "id": 306,
+    "name": "Honites-Izizaum",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Honites-Izizaum_T8.png"
+  },
+  {
+    "id": 307,
+    "name": "Pouitos-Ofairom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Pouitos-Ofairom_T6.png"
+  },
+  {
+    "id": 308,
+    "name": "Huyos-Uxeulum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Huyos-Uxeulum t4.png"
+  },
+  {
+    "id": 309,
+    "name": "Coritos-Avemlum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Coritos-Avemlum t6.png"
+  },
+  {
+    "id": 310,
+    "name": "Firos-Osinsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Firos-Osinsum t6.png"
+  },
+  {
+    "id": 311,
+    "name": "Qiient-Sa-Odetis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Sa-Odetis t6.png"
+  },
+  {
+    "id": 312,
+    "name": "Secent-Viesum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "hide",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Secent-Viesum t6.png"
+  },
+  {
+    "id": 313,
+    "name": "Settun-Tersom",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 2
+      },
+      {
+        "type": "green_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Settun-Tersom t6.png"
+  },
+  {
+    "id": 314,
+    "name": "Firos-Osinsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Firos-Osinsum_T6.png"
+  },
+  {
+    "id": 315,
+    "name": "Oebitos-Oyozam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "ore",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Oebitos-Oyozam_T6.png"
+  },
+  {
+    "id": 316,
+    "name": "Puros-Ofavam",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 4
+      }
+    ],
+    "image": "/data/maps/Puros-_Ofavam_T6.png"
+  },
+  {
+    "id": 317,
+    "name": "Qiient-Nutis",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Nutis t6.png"
+  },
+  {
+    "id": 318,
+    "name": "Setos-Avamsum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 6
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Setos-Avamsum t6.png"
+  },
+  {
+    "id": 319,
+    "name": "Sonitos-Ayailos",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 7
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Sonitos-Ayailos_T4.png"
+  },
+  {
+    "id": 320,
+    "name": "Febites-Opavun",
+    "tier": 8,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Febites-Opavun t8.png"
+  },
+  {
+    "id": 321,
+    "name": "Oasos-Uromlum",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 2
+      },
+      {
+        "type": "wood",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "fiber",
+        "quantity": 1
+      },
+      {
+        "type": "dungeon",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Oasos-Uromlum t4.png"
+  },
+  {
+    "id": 322,
+    "name": "Pasos-Avosam",
+    "tier": 4,
+    "resources": [
+      {
+        "type": "blue_chest",
+        "quantity": 1
+      },
+      {
+        "type": "green_chest",
+        "quantity": 3
+      },
+      {
+        "type": "dungeon",
+        "quantity": 2
+      }
+    ],
+    "image": "/data/maps/Pasos-Avosam t4.png"
   }
 ]

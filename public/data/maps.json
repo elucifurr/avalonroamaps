@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Cases-Ugumlos",
+    "tier": 6,
+    "resources": [
+      {"type": "stone", "quantity": 1},
+      {"type": "wood", "quantity": 1},
+      {"type": "blue_chest", "quantity": 1},
+      {"type": "green_chest", "quantity": 1},
+      {"type": "fiber", "quantity": 1},
+      {"type": "hide", "quantity": 1},
+      {"type": "dungeon", "quantity": 1}
+    ],
+    "image": "/data/maps/Cases-Ugumlos.png"
+  },
+  {
+    "id": 2,
+    "name": "Xebos-Atinaum",
+    "tier": 6,
+    "resources": [
+      {"type": "fiber", "quantity": 3},
+      {"type": "hide", "quantity": 1},
+      {"type": "green_chest", "quantity": 1}
+    ],
+    "image": "/data/maps/xebos-atinaum.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hiros-Qintaum",
+    "tier": 8,
+    "resources": [
+      {"type": "ore", "quantity": 2},
+      {"type": "blue_chest", "quantity": 1}
+    ],
+    "image": "/data/maps/hiros-qintaum.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tofos-Oyinlum",
+    "tier": 5,
+    "resources": [
+      {"type": "wood", "quantity": 2},
+      {"type": "stone", "quantity": 1},
+      {"type": "gold_chest", "quantity": 1}
+    ],
+    "image": "/data/maps/tofos-oyinlum.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Limos-Abalam",
+    "tier": 7,
+    "resources": [
+      {"type": "hide", "quantity": 3},
+      {"type": "fiber", "quantity": 2}
+    ],
+    "image": "/data/maps/limos-abalam.jpg"
+  }
+]

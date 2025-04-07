@@ -64,7 +64,11 @@ export function MapTable({
                 {highlightText(map.name, searchQuery)} {/* ✅ highlight match */}
               </td>
               <td className="px-4 py-3">
-                <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-blue-900 text-blue-100 font-semibold">
+                <span className={`inline-flex items-center justify-center w-8 h-8 rounded-full font-semibold ${
+                  map.tier === 8 ? 'bg-white text-gray-900' :
+                  map.tier === 6 ? 'bg-orange-500 text-white' :
+                  'bg-blue-900 text-blue-100'
+                }`}>
                   {map.tier}
                 </span>
               </td>

@@ -1283,10 +1283,6 @@
       {
         "type": "wood",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Huros-Atontum_T6.png"
@@ -1391,10 +1387,6 @@
       {
         "type": "dungeon",
         "quantity": 3
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Hynitos-Atoyam_T6.png"
@@ -1415,10 +1407,6 @@
       {
         "type": "fiber",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Hynitos-Ayousum_T6.png"
@@ -1483,10 +1471,6 @@
       {
         "type": "dungeon",
         "quantity": 3
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Oetos-Ofailos_T6.png"
@@ -1514,10 +1498,6 @@
       },
       {
         "type": "dungeon",
-        "quantity": 1
-      },
-      {
-        "type": "gold_chest",
         "quantity": 1
       }
     ],
@@ -1591,10 +1571,6 @@
       {
         "type": "hide",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Ouritos-Ataltum_T6.png"
@@ -1611,10 +1587,6 @@
       {
         "type": "dungeon",
         "quantity": 3
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Ouritos-Ofailos_T6.png"
@@ -1639,10 +1611,6 @@
       {
         "type": "dungeon",
         "quantity": 3
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Oynites-Oloblum_T6.png"
@@ -1671,10 +1639,6 @@
       {
         "type": "hide",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Oynos-Eramtum_T6.png"
@@ -1811,10 +1775,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Piritos-Opabrom_T6.png"
@@ -2179,10 +2139,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Setitos-Obobrom_T6.png"
@@ -2223,10 +2179,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Sieos-Ofugtum_T6.png"
@@ -2351,10 +2303,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Souitos-Oiozlum_T6.png"
@@ -2427,10 +2375,6 @@
       {
         "type": "stone",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Synitos-Availos_T6.png"
@@ -2451,10 +2395,6 @@
       {
         "type": "fiber",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Synitos-Ofurlos_T6.png"
@@ -2639,10 +2579,6 @@
       {
         "type": "ore",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Tonitos-Igurlum_T6.png"
@@ -2695,10 +2631,6 @@
       {
         "type": "stone",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Tynos-Uxavrom_T6.png"
@@ -2895,10 +2827,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Xilitos-Aoemaum_T6.png"
@@ -2919,10 +2847,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Xilos-Osayam_T6.png"
@@ -2943,10 +2867,6 @@
       {
         "type": "ore",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Xiros-Aiairom_T6.png"
@@ -2995,10 +2915,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Xoritos-Osayam_T6.png"
@@ -3046,10 +2962,6 @@
       },
       {
         "type": "stone",
-        "quantity": 2
-      },
-      {
-        "type": "gold_chest",
         "quantity": 2
       }
     ],
@@ -3227,10 +3139,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Oiros-Alaiam_T6.png"
@@ -3323,10 +3231,6 @@
       {
         "type": "stone",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Toritos-Iriglos_T6.png"
@@ -3371,10 +3275,6 @@
       {
         "type": "stone",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Souos-Availos_T6.png"
@@ -3399,10 +3299,6 @@
       {
         "type": "stone",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Curitos-Ayayaum_T6.png"
@@ -3547,10 +3443,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Hurites-Ieatun_T8.png"
@@ -3567,10 +3459,6 @@
       {
         "type": "dungeon",
         "quantity": 4
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Piritos-Ofavam_T6.png"
@@ -3691,10 +3579,6 @@
       {
         "type": "fiber",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 4
       }
     ],
     "image": "/data/maps/Petos-Aietam_T6.png"
@@ -3751,10 +3635,6 @@
       {
         "type": "green_chest",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Siros-Obobrom_T6.png"
@@ -3775,10 +3655,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Xasos-Oneulum_T6.png"
@@ -3899,10 +3775,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Huyitos-Ohenlum_T6.png"
@@ -3927,10 +3799,6 @@
       {
         "type": "dungeon",
         "quantity": 3
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Oires-Oloblum_T6.png"
@@ -3951,10 +3819,6 @@
       {
         "type": "fiber",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 4
       }
     ],
     "image": "/data/maps/Pynitos-Aietam_T6.png"
@@ -3975,10 +3839,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Feritos-Osinsum_T6.png"
@@ -4026,10 +3886,6 @@
       },
       {
         "type": "dungeon",
-        "quantity": 1
-      },
-      {
-        "type": "gold_chest",
         "quantity": 1
       }
     ],
@@ -4079,10 +3935,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Fasitos-Oyuctum_T6.png"
@@ -4107,10 +3959,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Feros-Oyuctum_T6.png"
@@ -4131,10 +3979,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Fones-Opavun_T8.png"
@@ -4335,10 +4179,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Suyitos-Ofugtum_T6.png"
@@ -4363,10 +4203,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Xebitos-Oyogam_T6.png"
@@ -4407,10 +4243,6 @@
       {
         "type": "fiber",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Suyos-Onaytum_T6.png"
@@ -4447,10 +4279,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Siritos-Oyohun_T8.png"
@@ -4471,10 +4299,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Suyites-Uzurtum_T6.png"
@@ -4519,10 +4343,6 @@
       {
         "type": "hide",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Ooros-Ataltum_T6.png"
@@ -4543,10 +4363,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Poues-Unatam_T6.png"
@@ -4611,10 +4427,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Sasos-Oiozlum_T6.png"
@@ -4635,10 +4447,6 @@
       {
         "type": "ore",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Xoritos-Aiairom_T6.png"
@@ -4691,10 +4499,6 @@
       {
         "type": "fiber",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Hasos-Ayousum_T6.png"
@@ -4739,10 +4543,6 @@
       {
         "type": "ore",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Tiros-Ouultum_T6.png"
@@ -4822,10 +4622,6 @@
       },
       {
         "type": "wood",
-        "quantity": 2
-      },
-      {
-        "type": "gold_chest",
         "quantity": 2
       }
     ],
@@ -4923,10 +4719,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Hynes-Ieatun_T8.png"
@@ -4978,10 +4770,6 @@
       },
       {
         "type": "wood",
-        "quantity": 2
-      },
-      {
-        "type": "gold_chest",
         "quantity": 2
       }
     ],
@@ -5126,10 +4914,6 @@
       },
       {
         "type": "dungeon",
-        "quantity": 1
-      },
-      {
-        "type": "gold_chest",
         "quantity": 1
       }
     ],
@@ -5315,10 +5099,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Siros-Ofurlos_T6.png"
@@ -5359,10 +5139,6 @@
       {
         "type": "ore",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Tieitos-Ouultum_T6.png"
@@ -5467,10 +5243,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Oynos-Oyozam_T6.png"
@@ -5519,10 +5291,6 @@
       {
         "type": "hide",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Silitos-Abizaum_T8.png"
@@ -5567,10 +5335,6 @@
       {
         "type": "fiber",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Casitos-Atinaum_T6.png"
@@ -5595,10 +5359,6 @@
       {
         "type": "wood",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Fouos-Amaurom_T6.png"
@@ -5647,10 +5407,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Hilitos-Osuorom_T6.png"
@@ -5691,10 +5447,6 @@
       {
         "type": "fiber",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Seritos-Onaytum_T6.png"
@@ -5715,10 +5467,6 @@
       {
         "type": "stone",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Tasos-Iriglos_T6.png"
@@ -5874,10 +5622,6 @@
       },
       {
         "type": "dungeon",
-        "quantity": 1
-      },
-      {
-        "type": "gold_chest",
         "quantity": 1
       }
     ],
@@ -6047,10 +5791,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Fonitos-Amaurom_T6.png"
@@ -6131,10 +5871,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Pirites-Unatam_T6.png"
@@ -6155,10 +5891,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Pynos-Opabrom_T6.png"
@@ -6391,10 +6123,6 @@
       {
         "type": "dungeon",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Oeritos-Oyexlos_T6.png"
@@ -6463,10 +6191,6 @@
       {
         "type": "wood",
         "quantity": 2
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Cieitos-Otatrom_T8.png"
@@ -6511,10 +6235,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Couos-Opodam_T6.png"
@@ -6535,10 +6255,6 @@
       {
         "type": "ore",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Firos-Aiavam_T6.png"
@@ -6827,10 +6543,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Tuyitos-Aboysum_T8.png"
@@ -6855,10 +6567,6 @@
       {
         "type": "wood",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Tiros-Odoxlum_T6.png"
@@ -7071,10 +6779,6 @@
       {
         "type": "wood",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 2
       }
     ],
     "image": "/data/maps/Tebitos-Odoxlum_T6.png"
@@ -7283,10 +6987,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Soues-Uzurtum_T6.png"
@@ -7503,10 +7203,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Pouitos-Ofairom_T6.png"
@@ -7579,10 +7275,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Firos-Osinsum_T6.png"
@@ -7655,10 +7347,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 3
       }
     ],
     "image": "/data/maps/Firos-Osinsum_T6.png"
@@ -7679,10 +7367,6 @@
       {
         "type": "dungeon",
         "quantity": 1
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Oebitos-Oyozam_T6.png"
@@ -7699,10 +7383,6 @@
       {
         "type": "dungeon",
         "quantity": 4
-      },
-      {
-        "type": "gold_chest",
-        "quantity": 1
       }
     ],
     "image": "/data/maps/Puros-Ofavam_T6.png"
@@ -7838,7 +7518,7 @@
       },
       {
         "type": "dungeon",
-        "quantity": 2
+        "quantity": 2 
       }
     ],
     "image": "/data/maps/Pasos-Avosam_T4.png"

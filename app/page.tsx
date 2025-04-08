@@ -78,8 +78,8 @@ export default function Home() {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-gray-900 text-gray-100 flex items-center justify-center">
-        <div className="text-center">
+      <div className="min-h-screen text-gray-100 flex items-center justify-center relative">
+        <div className="text-center relative z-10">
           <h2 className="text-2xl font-bold text-red-400 mb-2">Error Loading Maps</h2>
           <p className="text-gray-400">{error}</p>
         </div>
@@ -88,8 +88,8 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-gray-900 text-gray-100">
-      <div className="container mx-auto px-4 py-8">
+    <main className="min-h-screen text-gray-100 relative">
+      <div className="container mx-auto px-4 py-8 relative z-10">
         <h1 className="text-3xl font-bold mb-6 text-center">Roads of Avalon Maps</h1>
         
         {/* Search Component */}

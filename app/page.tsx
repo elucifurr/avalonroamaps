@@ -1,12 +1,6 @@
 "use client"
 
 import { useState, useMemo } from 'react'
-import type { Metadata } from "next"
-
-export const metadata: Metadata = {
-  title: "Avalon Roads Explorer - RoA Maps",
-  description: "Browse and search for Roads of Avalon maps. Find resources, tiers, and locations for all RoA maps.",
-}
 
 // Import components
 import { SearchBar } from '@/components/SearchBar'

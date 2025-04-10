@@ -7842,5 +7842,49 @@
       }
     ],
     "image": "/data/maps/Pasos-Avosam_T4.png"
+  },
+  {
+    "id": 323,
+    "name": "Hures-Ugumtum",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 8
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      },
+      {
+        "type": "stone",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Hures-Ugumtum_T6.png"
+  },
+  {
+    "id": 323,
+    "name": "Qiient-Si-Nusas",
+    "tier": 6,
+    "resources": [
+      {
+        "type": "green_chest",
+        "quantity": 5
+      },
+      {
+        "type": "ore",
+        "quantity": 1
+      },
+      {
+        "type": "hide",
+        "quantity": 1
+      }
+    ],
+    "image": "/data/maps/Qiient-Si-Nusas.png"
   }
 ]

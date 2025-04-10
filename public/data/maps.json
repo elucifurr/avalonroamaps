@@ -7868,7 +7868,7 @@
     "image": "/data/maps/Hures-Ugumtum_T6.png"
   },
   {
-    "id": 323,
+    "id": 324,
     "name": "Qiient-Si-Nusas",
     "tier": 6,
     "resources": [
@@ -7885,6 +7885,6 @@
         "quantity": 1
       }
     ],
-    "image": "/data/maps/Qiient-Si-Nusas.png"
+    "image": "/data/maps/Qiient-Si-Nusas_T6.png"
   }
 ]
